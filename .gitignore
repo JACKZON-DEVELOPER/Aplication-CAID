@@ -5,7 +5,10 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
+/.idea/shelf/
+/.gradle
 .DS_Store
 /build
 /captures
+/gradle
 .externalNativeBuild
