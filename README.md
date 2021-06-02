@@ -1,2 +1,2 @@
 # Aplication-CAID
-proyecto de aplicacion Movil de cursos en linea
+proyecto de aplicacion Movil sobre cursos en linea
