@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "604609826535",
+    "firebase_url": "https://caid-83288.firebaseio.com",
+    "project_id": "caid-83288",
+    "storage_bucket": "caid-83288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604609826535:android:5e8233407fadd6ac",
+        "android_client_info": {
+          "package_name": "edu.titanes.caid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604609826535-kvasouav9930hnj134f6739rcf7vrtq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfafdRSSiT3qIN_iQ57gL8ozDKNvOB0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

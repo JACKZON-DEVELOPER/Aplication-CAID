@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CardView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/ciento_cincuenta"
+    android:id="@+id/card_cursoh_tarjH"
+    CardView:cardCornerRadius="@dimen/diez"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:padding="@dimen/diez">
+
+        <ImageView
+            android:id="@+id/img_imgC_tarjH"
+            android:layout_width="@dimen/ciento_treinta"
+            android:layout_height="match_parent"
+            android:background="@drawable/material_design"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="@dimen/diez">
+
+            <TextView
+                android:id="@+id/tex_tituloC_tarjH"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/colorNegro"
+                android:textSize="@dimen/texto_diesiceis"
+                android:text="@string/titulo"/>
+
+            <TextView
+                android:id="@+id/tex_nameInstru_tarjH"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/nombre_maestro" />
+
+
+            <RatingBar
+                android:id="@+id/rating_estrella_tarjH"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/cincuenta"
+                />
+
+            <TextView
+                android:id="@+id/tex_precio_tarjH"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/precio"
+                android:textColor="@color/colorNegro"/>
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

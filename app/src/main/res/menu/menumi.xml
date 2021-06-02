@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home"
+            />
+        <item
+            android:id="@+id/nav_buscar"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="@string/bucar" />
+        <item
+            android:id="@+id/nav_favorito"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/lista_deseo" />
+        <item
+            android:id="@+id/nav_mycurso"
+            android:icon="@drawable/ic_slideshow_black_24dp"
+            android:title="@string/mis_cursos" />
+        <item
+            android:id="@+id/nav_cuenta"
+            android:icon="@drawable/ic_portrait_black_24dp"
+            android:title="@string/cuenta" />
+    </group>
+    <item android:title="@string/titulo">
+        <menu>
+            <item
+                android:id="@+id/nav_ajuetes"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/ajustes"/>
+            <item
+                android:id="@+id/nav_ayuda"
+                android:icon="@drawable/ic_error_outline_black_24dp"
+                android:title="@string/ayuda"/>
+
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CardView="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_progreso_tarjP"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/ciento_cincuenta"
+    CardView:cardCornerRadius="@dimen/diez"
+    android:layout_marginTop="@dimen/fab_margin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="@dimen/diez">
+        <ImageView
+            android:id="@+id/img_imgC_tarjP"
+            android:layout_width="@dimen/ciento_treinta"
+            android:layout_height="match_parent"
+            android:background="@drawable/material_design"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="@dimen/diez">
+
+            <TextView
+                android:id="@+id/tex_tituloC_tarjP"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/colorNegro"
+                android:textSize="@dimen/texto_diesiceis"
+                android:text="@string/titulo"
+                android:layout_marginBottom="@dimen/fab_margin"/>
+
+            <ProgressBar
+                android:id="@+id/progressBar_progreso_tarjP"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:progress="10"
+                android:layout_marginBottom="@dimen/fab_margin" />
+            <TextView
+                android:id="@+id/tex_progresoC_tarjP"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/porcentaje_acumulado"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

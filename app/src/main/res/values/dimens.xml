@@ -1,0 +1,32 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="texto_veinte">20sp</dimen>
+    <dimen name="texto_diesiceis">16sp</dimen>
+    <dimen name="texto_diez">10sp</dimen>
+    <dimen name="texto_veintiicinco">25sp</dimen>
+
+
+    <dimen name="uno">1dp</dimen>
+    <dimen name="cinco">5dp</dimen>
+    <dimen name="diez">10dp</dimen>
+    <dimen name="quince">15dp</dimen>
+    <dimen name="veinte">20dp</dimen>
+    <dimen name="treinta">30dp</dimen>
+    <dimen name="treintacinco">35dp</dimen>
+    <dimen name="cuarenta">40dp</dimen>
+    <dimen name="cincuenta">50dp</dimen>
+    <dimen name="secenta">60dp</dimen>
+    <dimen name="ochenta">80dp</dimen>
+    <dimen name="cien">100dp</dimen>
+    <dimen name="ciento_diez">110dp</dimen>
+    <dimen name="ciento_treinta">130dp</dimen>
+    <dimen name="ciento_cincuenta">150dp</dimen>
+    <dimen name="ciento_setenta">170dp</dimen>
+    <dimen name="docientos">200dp</dimen>
+    <dimen name="docientos_secenta">260dp</dimen>
+    <dimen name="docientos_setenta">270dp</dimen>
+    <dimen name="docientos_cinuetaseis">256dp</dimen>
+    <dimen name="docientos_treintacinco">235dp</dimen>
+    <dimen name="docientos_cinuetacinco">255dp</dimen>
+</resources>

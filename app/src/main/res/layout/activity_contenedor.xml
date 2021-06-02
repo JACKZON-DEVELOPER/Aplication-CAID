@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".view.ContenedorActivity"
+    >
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/docientos"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:contentScrim="@color/colorPrimary">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:background="@drawable/app_para_estudiantes_universitarios"
+                app:layout_collapseMode="parallax"/>
+
+            <android.support.v7.widget.Toolbar
+
+                android:id="@+id/toolar_home"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:popupTheme="@style/AppTheme.PopupOverlay"
+                app:layout_collapseMode="pin"/>
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Los mejores Cursos"
+                android:textStyle="bold"
+                android:textColor="@color/colorNegro"
+                android:textSize="@dimen/fab_margin"
+                android:layout_marginTop="@dimen/treinta"/>
+
+            <android.support.v7.widget.RecyclerView
+
+                android:id="@+id/proome_recicle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/fab_margin"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Cursos Nuevos"
+                android:textStyle="bold"
+                android:textColor="@color/colorNegro"
+                android:textSize="@dimen/fab_margin"
+                android:layout_marginTop="@dimen/treinta"/>
+            <android.support.v7.widget.RecyclerView
+
+                android:id="@+id/proomedose_recicle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/fab_margin"
+
+                />
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:orientation="horizontal"
+                android:padding="@dimen/diez">
+
+                <ImageView
+                    android:id="@+id/img_imgC_tarjH"
+                    android:layout_width="@dimen/ciento_treinta"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/material_design"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="@dimen/diez">
+
+                    <TextView
+                        android:id="@+id/tex_tituloC_tarjH"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorNegro"
+                        android:textSize="@dimen/texto_diesiceis"
+                        android:text="Programación de Java"/>
+
+                    <TextView
+                        android:id="@+id/tex_nameInstru_tarjH"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Ing. Jose Rafael" />
+
+
+                    <RatingBar
+                        android:id="@+id/rating_estrella_tarjH"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/cincuenta"
+                        />
+
+                    <TextView
+                        android:id="@+id/tex_precio_tarjH"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="200"
+                        android:textColor="@color/colorNegro"/>
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:orientation="horizontal"
+                android:padding="@dimen/diez">
+
+                <ImageView
+
+                    android:layout_width="@dimen/ciento_treinta"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/material_design"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="@dimen/diez">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorNegro"
+                        android:textSize="@dimen/texto_diesiceis"
+                        android:text="Programación UNITY"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Lic. Mario Servantes" />
+
+
+                    <RatingBar
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/cincuenta"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="200"
+                        android:textColor="@color/colorNegro"/>
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</android.support.design.widget.CoordinatorLayout>

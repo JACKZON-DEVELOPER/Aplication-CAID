@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6">
+
+            <ImageView
+                android:layout_width="@dimen/ciento_cincuenta"
+                android:layout_height="@dimen/ciento_cincuenta"
+                android:layout_centerInParent="true"
+                android:background="@drawable/logo"
+                />
+            <ImageView
+                android:layout_width="@dimen/docientos"
+                android:layout_height="@dimen/ochenta"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/title_caid"/>
+
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.4"
+            android:fillViewport="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/treintacinco"
+                android:paddingRight="@dimen/treintacinco"
+                android:paddingTop="@dimen/fab_margin">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/fab_margin"
+                    android:theme="@style/EditTextWite">
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/input_usuario_login"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/usuario"/>
+
+                </android.support.design.widget.TextInputLayout>
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/fab_margin"
+                    android:theme="@style/EditTextWite">
+
+                    <android.support.design.widget.TextInputEditText
+                        android:id="@+id/input_password_login"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/passwor"
+                        android:inputType="textPassword"/>
+
+                </android.support.design.widget.TextInputLayout>
+
+                <Button
+                    android:id="@+id/btn_ingresar_login"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/login"
+                    android:theme="@style/RaisedButtonDarck"
+                    />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/secenta"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/tex_sincuenta_login"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/sin_cuenta"
+                        android:textColor="@color/colorBlanco"
+                        android:textSize="@dimen/fab_margin"
+                        android:textStyle="bold"
+                        android:paddingRight="@dimen/uno"/>
+                    <TextView
+                        android:id="@+id/tex_registrarce_login"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/crear_cuenta"
+                        android:textSize="@dimen/fab_margin"
+                        android:textColor="@color/colorBlanco"
+                        android:textStyle="bold"
+                        android:layout_toRightOf="@+id/tex_sincuenta_login"
+                        android:onClick="goCrearUsuarios"/>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/secenta"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/ico_faceoock_login"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/ic_facebook"
+                        android:layout_marginRight="@dimen/fab_margin"/>
+                    <TextView
+                        android:id="@+id/tex_faceboock_login"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/login_faceoock"
+                        android:textSize="@dimen/fab_margin"
+                        android:textColor="@color/colorBlanco"
+                        android:textStyle="bold"
+                        android:layout_toRightOf="@+id/ico_faceoock_login"
+                        android:onClick="goconten"/>
+
+                </RelativeLayout>
+
+
+
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

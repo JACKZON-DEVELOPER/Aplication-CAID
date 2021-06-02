@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">caid</string>
+    <string name="title_activity_ref">refActivity</string>
+
+    <string name="usuario">Usuario</string>
+    <string name="passwor">Contraseña</string>
+    <string name="confirContraseña">Confirma Contraseña</string>
+    <string name="login">Login</string>
+    <string name="sin_cuenta">¿Tienes Cueta?</string>
+    <string name="registrate_aqui">Registrate aqui</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="correo">Correo</string>
+    <string name="nomre">Nombre</string>
+    <string name="reistrarse">Registrate</string>
+    <string name="login_faceoock">Iniciar con Faceboock</string>
+    <string name="titulo">Titulo</string>
+    <string name="precio">Precio</string>
+    <string name="numero">1</string>
+    <string name="nombre_maestro">Nomre Instructor</string>
+    <string name="duracion_video">Video - 13:12 minutos</string>
+    <string name="porcentaje_acumulado">10% completado</string>
+    <string name="ingresar">ingresar</string>
+    <string name="home">Home</string>
+    <string name="bucar">buscar</string>
+    <string name="lista_deseo">Lista de deseos</string>
+    <string name="mis_cursos">Mis cursos</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="ayuda">Ayuda</string>
+
+    <string name="navega_oppen_draw">Open</string>
+    <string name="navega_close_draw">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
