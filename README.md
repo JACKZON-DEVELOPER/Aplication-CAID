@@ -10,48 +10,49 @@
   <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=Firebase&logoColor=white">
 </div>
 
-# Aplication-CAID
+# Aplicación CAID
+
 <hr/>
 
-Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en linea con fin educativo, de esta manera se pueden tomar clases en linea tratando de simular todos los ambitos de una clase normal con chat para preguntas y respuestas profesor a alumno, video conferencia, seccion para poder tomar apuntes, seccion de tareas, entre otras funciones 
+Este proyecto es sobre una aplicación Móvil, en la aplicación se encuentran cursos en línea con fin educativo, de esta manera se pueden tomar clases en línea tratando de simular todos los ámbitos de una clase normal con chat para preguntas y respuestas entre profesor y alumnos, video conferencia, sección para poder tomar apuntes, sección de tareas, entre otras funciones.
 
   <div>
      <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/CAID_login.jpg" alt="Pantalla Login" width="300">     
   </div>
 
-### FUNCIONES DE LA APLICACION
+### FUNCIONES DE LA APLICACIÓN
 
-* REGISTRO. Los usuarios pueden registrarse por dos medios diferentes
-  - Cuenta de correo electronico
-  - cuenta de faceboock
-* CLASES. en una clase hay dos tipos de usuarios en interectuan entre ellos 
-  - Profesor. puede gestionar las clases añadiendo o eliminando alumnos 
-  - Alumnos. pueden ingresar a las clases por medio de un codigo QR
-* VIDEO CLASE. Cuenta con varias funciones para las clases en vivo
-  - Camara. se puede grabar en video o tomar fotos durante la clase
-  - Escritorio. cuenta con un modo para grabar el escritorio
-  - Pisaron. esta funcion simula un pisaron con varias funciones de tablas, lapises etc.
-  - Chat. se podran realizar preguntas y respuestas duarante 
-* MENSAGERIA. En este medio los profesores y alumnos pueden ponerse en comunicacion
-  - mensageria de texto
-* ACTIVIDADES. se podra añadoir tareas para los aulnos 
-  - Tarea. los profesores pueden añadir tareas e ingresar limite de timepo y condiciones
-  - Suver archivos. los aplunos pueden subir archivos de sus tareas 
-  - Calificaciones. tiene un sistema de calificaciones con base a las tareas 
-  - Examne- los profesores puedn crear examenes
-* EVALUACIONES. sitema de evaluaciones, promedios y calificaciones
-  - Promedio. calcula el promedio de con base a las calificaciones y los examenes
-  - Graficas. muestra los datos de las claifiaciones de los alumnos a los profesores  
+* REGISTRO. los usuarios pueden registrarse por dos medios diferentes 
+  - cuenta de correo electrónico
+  - cuenta de Facebook
+* CLASES. en una clase hay dos tipos de usuarios en interactúan entre ellos 
+  - Profesores- puede gestionar las clases añadiendo o eliminando alumnos
+  - Alumnos- pueden ingresar a las clases por medio de un código QR
+* VIDEO CLASE. cuenta con varias funciones para las clases en vivo 
+  - Cámara- se puede grabar en video o tomar fotos durante la clase
+  - Escritorio- cuenta con un modo para grabar el escritorio
+  - Pisaron- esta función simula un pisaron con varias funciones de tablas, lápices etc.
+  - Chat- se podrán realizar preguntas y respuestas durante la clase 
+* MENSAJERÍA. en este medio los profesores y alumnos pueden ponerse en comunicación 
+  - Mensajería de texto
+* ACTIVIDADES. se podrá añadir tareas para los alumnos 
+  - Tarea- los profesores pueden añadir tareas e ingresar límite de tiempo y condiciones
+  - Subir archivos- los alumnos pueden subir archivos de sus tareas
+  - Calificaciones- tiene un sistema de calificaciones con base a las tareas
+  - Examen- los profesores pueden crear exámenes
+* EVALUACIONES. sistema de evaluaciones, promedios y calificaciones 
+  - Promedio- calcula el promedio de con base a las calificaciones y los exámenes
+  - Graficas- muestra los datos de las calificaciones de los alumnos a los profesores
 
 <hr/>
 
 ### Objetivo para el proyecto
 
-Se cambiara de el lenguaje de en el que esta echo de Java a Kotlin y migrar a nueva vercion de SDK, se mejorara el sistema de video conferncia, chat y de subida de archivos, se agreagara una funcion de sincronia para llevar este proyecto a la web.
+Se cambiará del lenguaje en el que esta creado se pasará de Java a Kotlin y migrar a nueva versión de SDK, se mejorará el sistema de video conferencia, chat y de subida de archivos, se agregará una función de sincronía para llevar este proyecto a la web.
 
 <hr/>
 
-### Verciones 
+### Versiones utilizadas 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-jdk%201.8-blue?style=flat&logo=Java">    
