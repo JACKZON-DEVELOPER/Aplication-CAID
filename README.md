@@ -21,7 +21,7 @@ video conferencia
   
   </div>
   <div>
-    <img src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/CAID_login.jpg" alt="Pantalla Login" width="300"> 
+    <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/CAID_login.jpg" alt="Pantalla Login" width="300"> 
 
   </div>
   
