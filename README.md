@@ -25,24 +25,24 @@ Este proyecto es sobre una aplicación Móvil, en la aplicación se encuentran c
 * REGISTRO. los usuarios pueden registrarse por dos medios diferentes 
   - cuenta de correo electrónico
   - cuenta de Facebook
-* CLASES. en una clase hay dos tipos de usuarios en interactúan entre ellos 
-  - Profesores- puede gestionar las clases añadiendo o eliminando alumnos
-  - Alumnos- pueden ingresar a las clases por medio de un código QR
-* VIDEO CLASE. cuenta con varias funciones para las clases en vivo 
-  - Cámara- se puede grabar en video o tomar fotos durante la clase
-  - Escritorio- cuenta con un modo para grabar el escritorio
+* CLASES. en una clase hay dos tipos de usuarios en interactúan entre ellos. 
+  - Profesores- puede gestionar las clases añadiendo o eliminando alumnos.
+  - Alumnos- pueden ingresar a las clases por medio de un código QR.
+* VIDEO CLASE. cuenta con varias funciones para las clases en vivo.
+  - Cámara- se puede grabar en video o tomar fotos durante la clase.
+  - Escritorio- cuenta con un modo para grabar el escritorio.
   - Pisaron- esta función simula un pisaron con varias funciones de tablas, lápices etc.
-  - Chat- se podrán realizar preguntas y respuestas durante la clase 
-* MENSAJERÍA. en este medio los profesores y alumnos pueden ponerse en comunicación 
-  - Mensajería de texto
-* ACTIVIDADES. se podrá añadir tareas para los alumnos 
-  - Tarea- los profesores pueden añadir tareas e ingresar límite de tiempo y condiciones
-  - Subir archivos- los alumnos pueden subir archivos de sus tareas
-  - Calificaciones- tiene un sistema de calificaciones con base a las tareas
-  - Examen- los profesores pueden crear exámenes
-* EVALUACIONES. sistema de evaluaciones, promedios y calificaciones 
-  - Promedio- calcula el promedio de con base a las calificaciones y los exámenes
-  - Graficas- muestra los datos de las calificaciones de los alumnos a los profesores
+  - Chat- se podrán realizar preguntas y respuestas durante la clase. 
+* MENSAJERÍA. en este medio los profesores y alumnos pueden ponerse en comunicación. 
+  - Mensajería de texto.
+* ACTIVIDADES. se podrá añadir tareas para los alumnos. 
+  - Tarea- los profesores pueden añadir tareas e ingresar límite de tiempo y condiciones.
+  - Subir archivos- los alumnos pueden subir archivos de sus tareas.
+  - Calificaciones- tiene un sistema de calificaciones con base a las tareas.
+  - Examen- los profesores pueden crear exámenes.
+* EVALUACIONES. sistema de evaluaciones, promedios y calificaciones.
+  - Promedio- calcula el promedio de con base a las calificaciones y los exámenes.
+  - Graficas- muestra los datos de las calificaciones de los alumnos a los profesores.
 
 <hr/>
 
