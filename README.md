@@ -39,7 +39,10 @@ video conferencia
   - Tarea. los profesores pueden añadir tareas e ingresar limite de timepo y condiciones
   - Suver archivos. los aplunos pueden subir archivos de sus tareas 
   - Calificaciones. tiene un sistema de calificaciones con base a las tareas 
-* 
+  - Examne- los profesores puedn crear examenes
+* EVALUACIONES. sitema de evaluaciones, promedios y calificaciones
+  - Promedio. calcula el promedio de con base a las calificaciones y los examenes
+  - Graficas. muestra los datos de las claifiaciones de los alumnos a los profesores  
 
 <hr/>
 
