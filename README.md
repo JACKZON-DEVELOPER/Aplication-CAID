@@ -13,6 +13,8 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
 
 <div align="center">
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-Android-green?style=flat&logo=Android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Android-green?style=flat&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=Firebase&logoColor=white">
+  
 
 </div>
