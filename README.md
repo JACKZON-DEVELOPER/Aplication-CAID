@@ -25,6 +25,14 @@ video conferencia
     * video xonferencia, este emabien cuenta con un chat para preguntas y respuestas 
     * tareas. el profesor puede crear tareas para que los alumnos realisen
       - asdsd
+      
+
+### PREREQUISITES
+
+* JDK 1.8
+* Android SDK
+  - Android NDK
+* Rust with Android targets installed  
 
 <hr/>
 
