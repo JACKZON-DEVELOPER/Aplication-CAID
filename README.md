@@ -20,7 +20,7 @@ video conferencia
   </div>
   
 ### FUNCIONES DE LA APLICACION
-    * para registrarse puede ser con cuenta de google o feceboock este funciona a base de firebase
+    * 
     * gestion de clase, los profesores pueden añadir o elimiar a estudiantes de sus cursos
     * video xonferencia, este emabien cuenta con un chat para preguntas y respuestas 
     * tareas. el profesor puede crear tareas para que los alumnos realisen
@@ -29,6 +29,7 @@ video conferencia
 
 ### PREREQUISITES
 
+* para registrarse puede ser con cuenta de google o feceboock este funciona a base de firebase
 * JDK 1.8
 * Android SDK
   - Android NDK
