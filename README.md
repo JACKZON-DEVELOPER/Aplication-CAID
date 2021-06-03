@@ -12,23 +12,18 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
 puntos de la aplicaion
 
 video conferencia 
-<div>
+
   <div>
     <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/CAID_login.jpg" alt="Pantalla Login" width="300"> 
-    para registrarse puede ser con cuenta de google o feceboock este funciona a base de firebase
-    gestion de clase, los profesores pueden añadir o elimiar a estudiantes de sus cursos
-    video xonferencia, este emabien cuenta con un chat para preguntas y respuestas 
+    * para registrarse puede ser con cuenta de google o feceboock este funciona a base de firebase
+    * gestion de clase, los profesores pueden añadir o elimiar a estudiantes de sus cursos
+    * video xonferencia, este emabien cuenta con un chat para preguntas y respuestas 
     
   
   </div>
-  <div>
-    
-
-  </div>
-  
-</div>
 
 
+<hr/>
 
 <div align="center">
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
