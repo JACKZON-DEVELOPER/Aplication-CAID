@@ -14,6 +14,10 @@ puntos de la aplicaion
 video conferencia 
 <div>
   <div>
+    para registrarse puede ser con cuenta de google o feceboock este funciona a base de firebase
+    gestion de clase, los profesores pueden añadir o elimiar a estudiantes de sus cursos
+    video xonferencia, este emabien cuenta con un chat para preguntas y respuestas 
+    
   
   </div>
   <div>
