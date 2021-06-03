@@ -19,21 +19,15 @@ video conferencia
      <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/CAID_login.jpg" alt="Pantalla Login" width="300">     
   </div>
   
-### FUNCIONES DE LA APLICACION
-    * 
-    * gestion de clase, los profesores pueden añadir o elimiar a estudiantes de sus cursos
-    * video xonferencia, este emabien cuenta con un chat para preguntas y respuestas 
-    * tareas. el profesor puede crear tareas para que los alumnos realisen
-      - asdsd
-      
 
-### PREREQUISITES
+### FUNCIONES DE LA APLICACION
 
 * para registrarse puede ser con cuenta de google o feceboock este funciona a base de firebase
-* JDK 1.8
-* Android SDK
+* gestion de clase, los profesores pueden añadir o elimiar a estudiantes de sus cursos
+* video xonferencia, este emabien cuenta con un chat para preguntas y respuestas 
   - Android NDK
-* Rust with Android targets installed  
+* tareas. el profesor puede crear tareas para que los alumnos realisen
+  - CALSAS 
 
 <hr/>
 
