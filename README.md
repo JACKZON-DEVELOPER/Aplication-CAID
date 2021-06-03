@@ -16,6 +16,8 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
   </div>
   
 
+
+
 ### FUNCIONES DE LA APLICACION
 
 * REGISTRO. Los usuarios pueden registrarse por dos medios diferentes
