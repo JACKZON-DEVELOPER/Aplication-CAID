@@ -54,6 +54,5 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
 
   <img src="https://img.shields.io/badge/Java-jdk%201.8-blue?style=flat&logo=Java">    
   <img src="https://img.shields.io/badge/Android-%20api%2028-blue?style=flat&logo=Android"> 
-  <img src="https://img.shields.io/badge/Java-jdk%201.8-blue?style=flat&logo=Java"> 
 </div>
 
