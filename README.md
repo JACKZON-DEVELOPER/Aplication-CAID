@@ -50,10 +50,11 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
 
 <hr/>
 
-# Objetivo para el proyecto
+### Objetivo para el proyecto
 
 Se cambiara de el lenguaje de en el que esta echo de Java a Kotlin y migrar a nueva vercion de SDK 
 
+### Verciones 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-jdk%201.8-blue?style=flat&logo=Java">    
