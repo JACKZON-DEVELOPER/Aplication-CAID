@@ -47,7 +47,7 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
 
 ### Objetivo para el proyecto
 
-Se cambiara de el lenguaje de en el que esta echo de Java a Kotlin y migrar a nueva vercion de SDK 
+Se cambiara de el lenguaje de en el que esta echo de Java a Kotlin y migrar a nueva vercion de SDK, se mejorara el sistema de video conferncia, chat y de subida de archivos, se agreagara una funcion de sincronia para llevar este proyecto a la web.
 
 <hr/>
 
