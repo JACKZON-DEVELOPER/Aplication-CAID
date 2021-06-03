@@ -3,5 +3,7 @@
   <br/>
   <img src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/app/src/main/res/drawable-xxxhdpi/title_caid.png" alt="CAID Logo" width="300">  
 </h3>
+
 # Aplication-CAID
-proyecto de aplicacion Movil sobre cursos en linea
+<hr/>
+Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en linea con fin educativo, de esta manera se pueden tomar clases en linea 
