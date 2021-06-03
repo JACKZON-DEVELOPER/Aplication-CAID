@@ -50,4 +50,10 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
 
 <hr/>
 
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Java-jdk%201.8-blue?style=flat&logo=Java">    
+  <img src="https://img.shields.io/badge/Java-jdk%201.8-blue?style=flat&logo=Java"> 
+  <img src="https://img.shields.io/badge/Java-jdk%201.8-blue?style=flat&logo=Java"> 
+</div>
 
