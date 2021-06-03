@@ -8,3 +8,9 @@
 <hr/>
 
 Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en linea con fin educativo, de esta manera se pueden tomar clases en linea tratando de simular todos los ambitos de una clase normal con chat para preguntas y respuestas profesor a alumno, video conferencia, seccion para poder tomar apuntes, seccion de tareas, entre otras funciones 
+
+
+
+<div align="center">
+  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+</div>
