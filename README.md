@@ -13,11 +13,15 @@ puntos de la aplicaion
 
 video conferencia 
 
-  <div>
     <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/CAID_login.jpg" alt="Pantalla Login" width="300"> 
+
+  <div>
+    ###
     * para registrarse puede ser con cuenta de google o feceboock este funciona a base de firebase
     * gestion de clase, los profesores pueden añadir o elimiar a estudiantes de sus cursos
     * video xonferencia, este emabien cuenta con un chat para preguntas y respuestas 
+    * tareas. el profesor puede crear tareas para que los alumnos realisen
+      - asdsd
     
   
   </div>
