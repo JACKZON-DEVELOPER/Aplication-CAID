@@ -49,11 +49,13 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
   - Graficas. muestra los datos de las claifiaciones de los alumnos a los profesores  
 
 <hr/>
+
 # Objetivo para el proyecto
-Se cambiara de el lenguaje de en el que esta echo de Java a Kotlin y migrar a nueva vercion de SDK, 
+
+Se cambiara de el lenguaje de en el que esta echo de Java a Kotlin y migrar a nueva vercion de SDK 
+
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/Java-jdk%201.8-blue?style=flat&logo=Java">    
   <img src="https://img.shields.io/badge/Android-%20api%2028-blue?style=flat&logo=Android"> 
 </div>
