@@ -5,7 +5,7 @@
 </h3>
 
 <div align="center">
-  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Android-green?style=flat&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=Firebase&logoColor=white">
 </div>
@@ -15,14 +15,9 @@
 
 Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en linea con fin educativo, de esta manera se pueden tomar clases en linea tratando de simular todos los ambitos de una clase normal con chat para preguntas y respuestas profesor a alumno, video conferencia, seccion para poder tomar apuntes, seccion de tareas, entre otras funciones 
 
-   
-
   <div>
      <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/CAID_login.jpg" alt="Pantalla Login" width="300">     
   </div>
-  
-
-
 
 ### FUNCIONES DE LA APLICACION
 
@@ -53,6 +48,8 @@ Este proyecto es sobre una aplicacion Movil en el cual se encuentran cursos en l
 ### Objetivo para el proyecto
 
 Se cambiara de el lenguaje de en el que esta echo de Java a Kotlin y migrar a nueva vercion de SDK 
+
+<hr/>
 
 ### Verciones 
 
