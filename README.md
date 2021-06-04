@@ -8,12 +8,12 @@
 
 <hr/>
 
-### Descripcion
+### Descripción 
 
 Este proyecto es sobre una aplicación Móvil, en la aplicación se encuentran cursos en línea con fin educativo, de esta manera se pueden tomar clases en línea tratando de simular todos los ámbitos de una clase normal con chat para preguntas y respuestas entre profesor y alumnos, video conferencia, sección para poder tomar apuntes, sección de tareas, entre otras funciones.
 <hr/>
 
-### Creacion 
+### Creación 
 
 La aplicación esta creada en Java utilizando Android Studio junto con Firebase para la gestión de la base de datos 
 
