@@ -8,13 +8,20 @@
 
 <hr/>
 
+### Descripcion
+
 Este proyecto es sobre una aplicación Móvil, en la aplicación se encuentran cursos en línea con fin educativo, de esta manera se pueden tomar clases en línea tratando de simular todos los ámbitos de una clase normal con chat para preguntas y respuestas entre profesor y alumnos, video conferencia, sección para poder tomar apuntes, sección de tareas, entre otras funciones.
 <hr/>
+
+### Creacion 
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Android-green?style=flat&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=Firebase&logoColor=white">
 </div>
+
+
 La aplicación esta creada en Java utilizando Android Studio junto con Firebase para la gestión de la base de datos 
 <hr/>
 
